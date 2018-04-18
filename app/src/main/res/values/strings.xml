@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ImplicitWEbBrowserIntent</string>
+    <string name="Choose">What Are You Looking For?</string>
+    <string-array name="speciality">
+        <item>Eye Hospitals</item>
+        <item>Cardiac Hospitals</item>
+        <item>Kidney Hospitals</item>
+        <item>Orthopaedic Hospitals</item>
+    </string-array>
+    <string name="Find">FIND</string>
+    <string name="cardiac1">Labaid Cardiac Hospital</string>
+    <string name="cardiac2">National Heart Foundation Hospital And Research Institute</string>
+    <string name="cardiac3">Ibrahim Cardiac Hospital And Research Institute</string>
+    <string name="eye1">Bangladesh Eye Hospital</string>
+    <string name="eye2">Ispahani Islamia Eye Institute and Hospital</string>
+    <string name="eye3">Harun Eye Foundation Hospital</string>
+    <string name="kidney1">National Institute of Kidney Diseases And Urology</string>
+    <string name="kidney2">Kidney Foundation Hospital and Research Institute Bangladesh</string>
+    <string name="kidney3">City Hospital</string>
+    <string name="orthopaedic1">Dhaka Orthopedic Hospital</string>
+    <string name="orthopaedic2">Bangladesh Spine and Orthopedic Hospital</string>
+    <string name="orthopaedic3">National Institute of Traumatology And Orthopaedic Rehabilitation</string>
+
+
+</resources>
